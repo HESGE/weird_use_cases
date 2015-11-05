@@ -1,0 +1,27 @@
+CaseRec;Synopsis;GoogleSearchTerms;Google Diagnosis;FinalDiagnosis;CorrectGoogleDiagnosis
+000005;53 yo man with depression, Aortic regurg,heart block and acute pul oedema.;Acute Aortic regurgitation, depression, abscess;Infective endocarditis; Infective endocarditis;Yes
+000006;58 yo newly diagnosed oesophageal cancer, refractory hic cups and vomiting;oesophageal cancer, refractory hic cups, nausea, vomiting.;GI bleed;Linitis plastica with bowel obstruction;No
+000007;59 yo with difficult to control hypertension, exsmoker with adrenal mass;hypertension, adrenal;mass Cushing;Cushings secondary toadrenal adenoma;Yes
+000008;10 yo boy with right thigh pain and CT showed lytic R hip lesion;hip lesion, older child,;Eosinophilic granuloma,Osteoid osteoma;Osteoid osteoma;Yes
+000009;67 yo man with acute respiratory failure, exposure to bird dropping;HRCT centrilobular nodules, acute respiratory failure;Extrinsic Allergic Alveolitis, TB, BOOP;Hot tub lung secondary to M avium;No
+000010;73 yo fever, thigh pain, urinary frequency, previous statin use.; fever, bilateral thigh pain, weakness;Amyotrophy;Ehrlichiosis;No
+000011;30 yo female with fever and anterior mediastinal mass;fever, anterior mediastinal mass and central necrosis;TB, Lymphoma;Lymphoma;Yes
+000012;48 yo man with multiple spinal tumours and skin tumours;multiple spinal tumours, skin tumours;Neurofibromatosis Type 1;Neurofibromatosis type 1;Yes
+000014;38 yo man with ulcerative colitis, fever, blurred vision and dyspnoea;ulcerative colitis, blurred vision, fever;Uveitis;Vasculitis;No
+000015;80 yo man with dyspnoea and proteinuria;nephrotic syndrome, Bence Jones, ventricular failure;Amyloid;Amyloid light chain;Yes
+000016;9 yo female with headache, hypertension,visual disturbance;hypertension, papilledema, headache,renal mass, café au lait;Hyperaldosteronism;Pheochromocytoma;No
+000017;22 yo female with back pain, pulmonary infiltrates, rapidly progressing to death;sickle cell, pulmonary infiltrates, back pain;Acute chest syndrome;Acute chest syndrome;Yes
+000018;45 yo female with painful abdo mass;fibroma, astrocytoma, tumor, leiomyoma, scoliosis;Tuberous Sclerosis;Endometriosis;No
+000019;17 yo female Tsunami survivor with respiratory distress and R hemiplegia;pulmonary infiltrates, cns lesion;Aspergillus;Aspiration pneumonia and brain abscess (polymicrobial);No
+000022;81 yo with cough, fever, weakness and confusion.;CLL, encephalitis;Graft Versus Host Disease;West Nile fever;No
+000025;40 yo with wt los, sweats and persistent fever after food poisoning.;portal vein thrombosis, cancer;Cirrhosis;Pylephlebitis;No
+000026;48 yo man with loss of consciousness while jogging;cardiac arrest, exercise, young;Hypertrophic Obstructive Cardiomyopathy (HOCM);HOCM;Yes
+000027;80 yo man with fatigue, unsteady gait, confusion, insomnia leading to death;ataxia, confusion, insomnia, death;Spongiform encephalopathy (CJD); Creutzfeldt-Jakob disease (CJD);Yes
+000028;42 yo with 20kg wt loss, weakness, rash, haemapturia and mild hameoptysis.;wheeze wt loss, ANCA, haemoptysis, haematuria;Churg Strauss;Churg Strauss;Yes
+000029;68 yo man with periorbital swelling, rash and weakness;myopathy, neoplasia, dysphagia, rash, periorbital swelling;Polymyositis or Dermatomyositis;Dermatomyositis secondary to NHL;Yes
+000030;56 yo renal transplant recepient with fever, lymphadenopathy and cat scratches;renal transplant, fever, cat, lymphadenopathy;Cat scratch disease;Cat scratch disease;Yes
+000031;60 yo man with buttock purpuric rash, chronic renal falure.;buttock rash, renal failure, edema;Henoch Scholein Purpura;Cryoglobulinaemia;No
+000033;43 yo man with lower GI bleed, epistaxis, pulmonary AVM and polyposis.;polyps, telangectasia, epistaxis, anemia;1st hit is Juvenile polyposis + HTT which links to MADH4;MADH4 mutation (HTT + juvenile polyposis);Yes
+000034;10 yo girl with bullous skin lesions and acute respiratory failure;bullous skin conditions, respiratory failure, carbamazepine;Toxic Epidermal Necrolysis Syndrome (TENS);TENS;Yes
+000036;61 yo female with seizures, gait disturbance, confusion and dysphasia;seizure, confusion, dysphasia, T2 lesions;Encephalitis;MELAS;No
+000037;35 yo man who had a cardiac arrest while sleeping;cardiac arrest sleep;Long QT syndrome, Brugada Syndrome;Brugada;Yes

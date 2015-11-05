@@ -1,0 +1,57 @@
+Id;Query;Diagnosis;Source
+000001;Boy, normal birth, deformity of both big toes (missing joint), quick development of bone tumor near spine and osteogenesis at biopsy;Fibrodysplasia ossificans progressiva;HLJ
+000002;Normally developed boy age 5, progressive development of talking difficulties,seizures, ataxia, adrenal insufficiency and degeneration of visual and auditory functions;Adrenoleukodystrophy autosomal neonatal form;HLJ
+000003;Boy age 14, yellow, keratotic plaques on the skin of palms and soles going up onto the dorsal side. Both hands and feet are affected;Papillon Lefevre syndrome;HLJ
+000004;Jewish boy age 16, monthly seizures, sleep deficiency, aggressive and irritable when woken, highly increased sexual appetite and hunger;Kleine Levin Syndrome;HLJ
+000005;Male child, malformations at birth, midfacial retraction with a deep groove under the eyes, and hypertelorism, short nose with a low nasal bridge and large lowset ears, wide mouth and retrognathia, Hypertrichosis with bright reddish hair and a median frontal cutaneous angioma, short neck with redundant skin, Bilateral inguinal hernias, hypospadias with a megameatus, and cryptorchidism;Schinzel-Giedion Syndrome;HLJ
+000006;6 year old, girl, weight length head circumference below the third percentile, atrophic and hyperpigmented skin lesions, pointed nose, aberrant thumbs with diminished flexion, bilateral glue ears, purulent rhinitis;Rothmund-Thomson syndrome;OJRD
+000007;13 year old, teenage girl, skeletal muscle defects (muscle weakness), mild mental retardation, ophthalmoparesis;Autosomal recessive centronuclear myopathy (ARCNM);OJRD
+000008;14 year old, teenage boy, mild mental retardation, proximal muscle weakness, unable to walk (wheelchair-bound), premature ventricular complexes, ophthalmoparesis;Autosomal recessive centronuclear myopathy (ARCNM);OJRD
+000009;35 year old, female, progressive disturbance of gait (difficulties in walking),recurrent diarrhea, bronchitis, growth retardation, mild retardation of psychomotor development in infancy, bilateral juvenile cataracts, swelling of the Achilles tendons, high arched feet, exaggerated tendon reflexes;Cerebrotendinous xanthomatosis (CTX);OJRD
+000010;25 year old, woman, conjunctival hyperaemia, interstitial keratitis, moderate bilateral sensorineural hearing loss, tinnitus, dizziness, nausea and vertigo;Cogan's syndrome;OJRD
+000011;11 year old, boy, severe psychomotor retardation, seizures, strabismus, inverted nipples, dilated cardiomyopathy, hypotonia, wheelchair-bound;CDG (Congenital Disorders of Glycosylation) syndrome type Ic. (Synonyms: Carbohydrate deficient glycoprotein syndrome type Ic, Congenital disorder of glycosylation type 1c (or Ic));OJRD
+000012;17 year old, woman, congenital right pulmonary hypoplasia, right hip dysplasia, absence of uterus, rudimentary uterine horn;Mayer-Rokitansky-Küster-Hauser syndrome;OJRD
+000013;10 year old, girl, thrombocytopenia, splenomegaly, headache, itching rubeoliform rash;Congenital hepatic fibrosis (CHF);OJRD
+000014;11 year old, girl, intermittent abdominal pain, mild dorsal scoliosis, low serum phosphate/hypophosphatemia, hypercalcuria, elevated serum 1,25 dihydroxyvitamin D;Hypophosphatemic rickets with hypercalciuria;OJRD
+000015;4 month old, boy, epistaxis, haematemesis, haematochezia, subconjunctival bleeding, petechiae, haematomas, haemangioma, slightly enlarged liver, elevated serum transaminases;Type I tyrosinemia. (Synonyms: Fumarylacetoacetase deficiency, Hepatorenal tryosinosis/tyrosinemia);OJRD
+000016;7 year old, boy, dysmorphic signs, blue sclerae, high-arched palate, bifid uvula, joint hypermobility, muscular hypotrophy, translucent skin, aortic root dilatation, camptodactyly and ulnar deviation;Loeys-Dietz syndrome (LDS) type I [40];OJRD
+000017;48 year old, woman, aortic aneurysm, haematoma, translucent skin, bilateral venous varicosities, recurrent wrist dislocations;Loeys-Dietz syndrome (LDS) type II;OJRD
+000018;8 months old, male, progressive signs of respiratory distress, tachypnea, pulmonary hypertension, tortuosity of aortic arch, facial dysmorphisms;Arterial tortuosity syndrome (ATS);OJRD
+000019;5 year old, male, dyspnoea, asthenia, pulmonary hypertension, severe stenoses elongation and tortuosity of pulmonary arteries branches aortic arch sovraortic trunks and iliac arteries, dysmorphic features, joints hypermobility;Arterial tortuosity syndrome (ATS);OJRD
+000020;64 year old, male, inflammatory back pain, flares of arthritis, multisegmental spondylitis;Whipple's disease. (Synonyms: Intestinal lipodystrophy, Intestinal lipophagie granulomatosis, Secondary non-tropical sprue);OJRD
+000021;70 year old, male, massive hemoptysis, respiratory distress, anemia, hemodynamic instability, renal failure, intense headache, arthralgia, myalgias, ecchymoses over arms and abdomen, acidosis, pleural effusions, blood tinged secretion from lungs;Pulmonary hemorrhage syndrome associated with dengue fever/dengue hemorrhagic fever;OJRD
+000022;46 year old, female, ptosis, acanthocytosis, history of diarrhea, ataxia, paresthesia;Abetalipoproteinemia (ABL). (Synonyms: Bassen-Kornzweig disease, Homozygous familial hypobetalipoproteinemia (HoFHBL));OJRD
+000023;16 year old, girl, persistent diarrhea, acanthocytosis, mild dysarthria, reduced muscle bulk, bilateral proximal muscle weakness, absent deep-tendon reflexes, upgoing plantar reflexes, reduced sensitivity to light, dysdiadochokinesia;Abetalipoproteinemia (ABL). (Synonyms: Bassen-Kornzweig disease, Homozygous familial hypobetalipoproteinemia (HoFHBL));OJRD
+000024;teenager, girl, hypotonia, dehydration, acidosis, massive ketonuria, hyperammonemia;Methylmalonic acidemia (MMA). (Synonyms: Methylmalonie aciduria);OJRD
+000025;girl, hypotonia, seizures, dehydration, polypnea, acidosis, massive ketonuria, hyperammonemia;Propionic acidemia (PA). (Synonyms: Propionic aciduria, Ketotic glycinemia, Propionyl-CoA carboxylase defficiency);OJRD
+000026;27 year old, woman, blindness, obesity, type 2 diabetes, renal dysfunction, chronic pyelonephritis, hypertension, hirsutism, retinitis pigmentosa, cataract;Alstrom syndrome (Alström syndrome);OJRD
+000027;17 year old, boy, lysinuric protein intolerance, mild restrictive functional impairment, digital clubbing, atypical abdominal and thoracic pain, ground glass attenuation, interlobular septa thickening, moderate restrictive ventilatory defect, mild anemia, thrombocytopenia, increase in lactate dehydrogenase;Pulmonary alveolar proteinosis (PAP);OJRD
+000028;girl, pronounced microcephaly, short stature, psychomotoric delay, distinctive facial appearance, thrombocytopenia, anemia, leukocytopenia, pancytopenia, growth retardation, telecanthus, epicanthal folds, ptosis, infections of the inner ear and respiratory tract, hypoplastic marrow with cellular dysplasia;Ligase IV defficiency syndrome (LIG4 syndrome) (Synonyms: Ligase 4 syndrome);OJRD
+000029;5 year old, boy, congenital malformations, malformations of the hands and feet, bilateral strabismus, small tongue, impaired coordination, expressionless face, prominent forehead, depressed nasal bridge, hypoplastic thumbs, bilateral adactyly of the feet, short stature, severe myopia;Oromandibular-limb hypogenesis-Möbius syndrome;OJRD
+000030;21 year old, female, irregular menses, menorrhagia, hand and foot malformation, ovarian cyst, basic cognitive function;Terminal deletion of chromosome 4q;OJRD
+000031;53 yo man with depression, Aortic regurg, heart block and acute pul oedema.;Infective endocarditis;BMJ
+000032;58 yo newly diagnosed oesophageal cancer, refractory hic cups and vomiting;Linitis plastica with bowel obstruction;BMJ
+000033;59 yo with difficult to control hypertension, exsmoker with adrenal mass;Cushings secondary to adrenal adenoma;BMJ
+000034;10 yo boy with right thigh pain and CT showed lytic R hip lesion;Osteoid osteoma;BMJ
+000035;67 yo man with acute respiratory failure, exposure to bird dropping;Hot tub lung secondary to M avium;BMJ
+000036;73 yo fever, thigh pain, urinary frequency, previous statin use.;Ehrlichiosis;BMJ
+000037;30 yo female with fever and anterior mediastinal mass;Lymphoma;BMJ
+000038;48 yo man with multiple spinal tumours and skin tumours;Neurofibromatosis type 1;BMJ
+000039;38 yo man with ulcerative colitis, fever, blurred vision and dyspnoea;Vasculitis;BMJ
+000040;80 yo man with dyspnoea and proteinuria;Amyloid light chain;BMJ
+000041;9 yo female with headache, hypertension,visual disturbance;Pheochromocytoma;BMJ
+000042;22 yo female with back pain, pulmonary infiltrates, rapidly progressing to death;Acute chest syndrome;BMJ
+000043;45 yo female with painful abdo mass;Endometriosis;BMJ
+000044;17 yo female Tsunami survivor with respiratory distress and R hemiplegia;Aspiration pneumonia and brain abscess (polymicrobial);BMJ
+000045;81 yo with cough, fever, weakness and confusion.;West Nile fever;BMJ
+000046;40 yo with wt los, sweats and persistent fever after food poisoning.;Pylephlebitis;BMJ
+000047;48 yo man with loss of consciousness while jogging;Hypertrophic Obstructive Cardiomyopathy (HOCM);BMJ
+000048;80 yo man with fatigue, unsteady gait, confusion, insomnia leading to death;Creutzfeldt-Jakob disease (CJD);BMJ
+000049;42 yo with 20kg wt loss, weakness, rash, haemapturia and mild hameoptysis.;Churg Strauss;BMJ
+000050;68 yo man with periorbital swelling, rash and weakness;Dermatomyositis secondary to NHL;BMJ
+000051;56 yo renal transplant recepient with fever, lymphadenopathy and cat scratches;Cat scratch disease;BMJ
+000052;60 yo man with buttock purpuric rash, chronic renal falure.;Cryoglobulinaemia;BMJ
+000053;43 yo man with lower GI bleed, epistaxis, pulmonary AVM and polyposis.;MADH4 mutation (HTT + juvenile polyposis);BMJ
+000054;10 yo girl with bullous skin lesions and acute respiratory failure;Toxic Epidermal Necrolysis Syndrome (TENS);BMJ
+000055;61 yo female with seizures, gait disturbance, confusion and dysphasia;MELAS;BMJ
+000056;35 yo man who had a cardiac arrest while sleeping;Brugada;BMJ
