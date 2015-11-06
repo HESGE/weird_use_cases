@@ -12,7 +12,7 @@ Here are listed the use cases (diagnostic queries) used for evaluate our system.
 
 * `findzebra_use_cases.csv` is the one extracted from [Dragusin 2013]
 * `bmj_use_case.csv` is the one extracted from [Tang and Ng 2006]
-* `findzebra_with_full_bmj_query.csv` is the combination of the two above where the BMJ original query is given instead of the 'google query'
+* `findzebra_with_full_bmj_query.csv` is the combination of the two above where the BMJ original queries are given instead of the 'google query'
 
 
 If you see an error please provide me a pull request or indicate me the error.
